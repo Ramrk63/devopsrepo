@@ -4,5 +4,6 @@ ssakjhsjahdf
 :wq!
 www
 :
+s this is ram everthing is ok
 
 
